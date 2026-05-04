@@ -1,0 +1,93 @@
+{
+    "version": 2,
+    "settings": {
+        "appearanceTools": true,
+        "layout": {
+            "contentSize": "860px",
+            "wideSize": "1200px"
+        },
+        "color": {
+            "palette": [
+                {
+                    "slug": "navy",
+                    "color": "#1a3465",
+                    "name": "Navy"
+                },
+                {
+                    "slug": "green",
+                    "color": "#2c933c",
+                    "name": "Green"
+                },
+                {
+                    "slug": "yellow",
+                    "color": "#f8ef35",
+                    "name": "Yellow"
+                },
+                {
+                    "slug": "black",
+                    "color": "#000000",
+                    "name": "Black"
+                },
+                {
+                    "slug": "white",
+                    "color": "#ffffff",
+                    "name": "White"
+                },
+                {
+                    "slug": "off-white",
+                    "color": "#f5f4ef",
+                    "name": "Off White"
+                },
+                {
+                    "slug": "light-gray",
+                    "color": "#e2e2e2",
+                    "name": "Light Gray"
+                },
+                {
+                    "slug": "medium-gray",
+                    "color": "#888888",
+                    "name": "Medium Gray"
+                },
+                {
+                    "slug": "dark-gray",
+                    "color": "#2e2e2e",
+                    "name": "Dark Gray"
+                }
+            ]
+        },
+        "typography": {
+            "fontFamilies": [
+                {
+                    "name": "System Sans",
+                    "slug": "system-sans",
+                    "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif"
+                },
+                {
+                    "name": "System Serif",
+                    "slug": "system-serif",
+                    "fontFamily": "Georgia, 'Times New Roman', Times, serif"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "var(--wp--preset--color--off-white)",
+            "text": "var(--wp--preset--color--black)"
+        }
+    },
+    "customTemplates": [],
+    "templateParts": [
+        {
+            "name": "header",
+            "title": "Main Header",
+            "area": "header"
+        },
+        {
+            "name": "footer",
+            "title": "Main Footer",
+            "area": "footer"
+        }
+    ],
+    "patterns": []
+}
